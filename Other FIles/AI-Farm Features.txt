@@ -1,0 +1,27 @@
+the temp   / prefered temp (greener the closer)
+humidity   / prefered humidity (greener the closer)
+Moisture   / prefered moisture ( need to be predited ig) (greeneer the closer)
+Light      / minimum light ( green if >=)
+Wind speed / maximum wind speed ( green if <=)
+growth?
+
+last watering
+last diagnosis
+last report (the problem )
+last suggestion ( the solution)
+predicted path(are things going good or not).
+
+recomended Action ( what to do now, with a i started button to make it, keep doing).
+
+map {
+for each block of land show a plant with indicators for:
+	grouped : 
+	- the temp,
+	- humidity,
+	- light,
+	- wind speed
+	
+	Moisture (water drop)
+	
+	disease (plague )
+}

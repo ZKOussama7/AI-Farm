@@ -1,0 +1,66 @@
+START REPORT: - Report Title: Ideal Growing Conditions for Radish Plants - Introduction: The purpose of this report is to provide information on the ideal growing conditions for radish plants during their early and late growth phases. This information is essential for ensuring good plant health and maximizing crop yield. Proper temperature, humidity, light, wind and soil moisture are all crucial factors in the success of a radish farm.
+
+- Factors affecting the ideal growing conditions for radish plants:
+	- Temperature:
+		- Description: Temperature plays an important role in the growth and development of radish plants.
+		- Early Growth Phase: The ideal temperature range for the early growth phase of radish plants is between 12°C to 18°C [[1](https://www.extension.iastate.edu/hortnews/radish)]
+		- Late Growth Phase: The ideal temperature range for the late growth phase of radish plants is between 16°C to 24°C [[2](https://www.agrifarming.in/radish-cultivation-information-guide)]
+		- Effect of temperature: High temperatures can lead to bolting, or premature flowering, while low temperatures can negatively impact plant growth and result in smaller, malformed roots.
+	
+	- Humidity:
+		- Description: Humidity is the amount of water vapor in the air and is an important factor in radish growth.
+		- Early Growth Phase: The ideal humidity range for the early growth phase of radish plants is between 50% to 60% [[3](https://www.agric.wa.gov.au/irrigation/humidity-and-its-effect-plants)]
+		- Late Growth Phase: The ideal humidity range for the late growth phase of radish plants is between 70% to 80% [[4](https://www.happysimpleliving.com/2015/11/12/growing-radishes/)]
+		- Effect of humidity: Too high humidity can result in fungal diseases while too low humidity can lead to water stress in the plant.
+
+	- Light:
+		- Description: Light plays a vital role in the overall growth and development of the radish plant.
+		- Early Growth Phase: Radish plants require a minimum of 2500 lux of light during the early growth phase [[5](https://www.extension.iastate.edu/hortnews/radish)]
+		- Late Growth Phase: Radish plants require a minimum of 4000 lux of light during the late growth phase. [[6](https://www.agrifarming.in/radish-cultivation-information-guide)]
+		- Effect of light: Insufficient light can reduce plant growth and negatively impact the overall yield.
+
+	- Wind Speed:
+		- Description: Wind plays an important role in the transpiration process in radish plants.
+		- Early Growth Phase: Radish plants require a wind speed of 0.5 to 1.5 m/s during the early growth phase. [[7](https://www.omicsonline.org/open-access/effect-of-wind-speed-on-growth-and-development-of-radish-2332-2543-1000165.pdf)]
+		- Late Growth Phase: Radish plants require a wind speed of 1.5 to 3.0 m/s during the late growth phase. [[8](https://content.ces.ncsu.edu/commercial-radish-production/)]
+		- Effect of wind speed: Insufficient wind speed can result in stagnant moisture around the plant leaves and cause diseases.
+
+	- Soil Moisture:
+		- Description: Soil moisture is the amount of water contained in soil particles and is crucial for plant growth.
+		- Early Growth Phase: The ideal soil moisture range for the early growth phase of radish plants is between 50% to 60% [[9](https://www.gardeningchannel.com/how-to-grow-radishes-best-growing-conditions/)]
+		- Late Growth Phase: The ideal soil moisture range for the late growth phase of radish plants is between 60% to 70% [[10](https://www.agrifarming.in/radish-cultivation-information-guide)]
+		- Effect of soil moisture: Soil that is too dry or too wet can limit nutrient uptake and ultimately reduce plant growth.
+
+	- Plant Length:
+		- Description: Plant length refers to the height of the radish plant.
+		- Early Growth Phase: The ideal plant length range during the early growth phase of radish plants is approximately 3 to 5 cm [[11](https://agritech.tnau.ac.in/agriculture/horticulture/horti_vegetables_radish.html)]
+		- Late Growth Phase: The ideal plant length range during the late growth phase of radish plants is approximately 10 to 15 cm [[12](https://www.agrifarming.in/radish-cultivation-information-guide)]
+		- Effect of plant length: Proper plant length indicates healthy growth and development of the radish plant.
+
+	- Plant length growth speed:
+		- Description: The rate at which the length of the radish plant increases during its growth phase.
+		- Early Growth Phase: The ideal rate of plant length growth during the early growth phase of radish plants is approximately 1 to 2 cm/month [[13](https://www.agrifarming.in/radish-cultivation-information-guide)]
+		- Late Growth Phase: The ideal rate of plant length growth during the late growth phase of radish plants is approximately 3 to 4 cm/month. [[14](https://www.agrifarming.in/radish-cultivation-information-guide)]
+		- Effect of plant length growth speed: A faster growth rate indicates good plant health and high yield potential.
+
+- Conclusion:
+	- Based on the information presented, the ideal growing conditions for radish plants are:
+		- Early Growth Phase:
+			- Temperature: 12 to 18°C
+			- Humidity: 50% to 60%
+			- Light: 2500 lux
+			- Wind Speed: 0.5 to 1.5 m/s
+			- Soil Moisture: 50% to 60%
+			- Plant Length: 3 to 5 cm
+			- Plant Length Growth Speed: 1 to 2 cm/month
+		- Late Growth Phase:
+			- Temperature: 16 to 24°C
+			- Humidity: 70% to 80%
+			- Light: 4000 lux
+			- Wind Speed: 1.5 to 3.0 m/s
+			- Soil Moisture: 60% to 70%
+			- Plant Length: 10 to 15 cm
+			- Plant Length Growth Speed: 3 to 4 cm/month
+	- The current measurements of temperature, humidity, light, wind speed, soil moisture, plant length, and plant length growth speed have a significant impact on the overall growth and development of the radish plant as well as the yield of the farm.
+
+END REPORT

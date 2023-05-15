@@ -1,0 +1,101 @@
+{
+    "Template": {
+        "title": "Ideal Growing Conditions for Lentils",
+        "introduction": "The purpose of this report is to provide information on the ideal growing conditions for planting lentils. Knowing the optimal temperature, humidity, light, wind speed, soil moisture, and length growing parameters can ensure that the farm has a healthy crop yield. This can also help in the success of the specific plant's growth.",
+        "factors": [{
+                "name": "Temperature",
+                "description": "The ideal temperature range for lentils during early growth phases is between 16°C (60.8°F) to 26.6°C (79.9°F) [1], while during late growth phases, the ideal range is between 16°C (60.8°F) to 23.3°C (73.9°F) [1].",
+                "early": {
+                    "min": "16",
+                    "max": "26.6"
+                },
+                "late": {
+                    "min": "16",
+                    "max": "23.3"
+                },
+                "unit": "Celsius",
+                "effect": "Guarantees optimal temperature conditions for lentil growth."
+            }, {
+                "name": "Humidity",
+                "description": "The ideal humidity level for early growth phases of lentils is around 55% to 60% [2], while during late growth phases, it should be around 50% to 55% [2].",
+                "early": {
+                    "min": "55",
+                    "max": "60"
+                },
+                "late": {
+                    "min": "50",
+                    "max": "55"
+                },
+                "unit": "%",
+                "effect": "Maintains ideal humidity levels for lentil growth."
+            }, {
+                "name": "Light",
+                "description": "Low to moderate light intensity between 500 to 700 W/m2 is ideal for lentils during early growth phases [3], while the lentils should receive maximum light of 900 W/m2 during the late growth period [3].",
+                "early": {
+                    "min": "500",
+                    "max": "700"
+                },
+                "late": {
+                    "min": "900",
+                    "max": "900"
+                },
+                "unit": "W/m2",
+                "effect": "Ensures optimal light intensity for lentil growth."
+            }, {
+                "name": "Wind speed",
+                "description": "Lentils grow best in light to moderate air movements of approximately 2-3 m/s during early growth phases [4], while high wind velocity can easily break them during late growth phases [5].",
+                "early": {
+                    "min": "2",
+                    "max": "3"
+                },
+                "late": {
+                    "min": "0",
+                    "max": "0"
+                },
+                "unit": "m/s",
+                "effect": "Maintains ideal wind conditions for lentil growth."
+            }, {
+                "name": "Soil moisture",
+                "description": "The ideal soil moisture range for lentils during early growth phases is between 12.5% to 25% [2], while during late growth phases, the correct soil moisture percentage should be around 12.5% to 33.3% [2].",
+                "early": {
+                    "min": "12.5",
+                    "max": "25"
+                },
+                "late": {
+                    "min": "12.5",
+                    "max": "33.3"
+                },
+                "unit": "%",
+                "effect": "Maintains ideal soil moisture levels for lentil growth."
+            }, {
+                "name": "Plant length",
+                "description": "The ideal lentil plant length during early growth phases should measure about 10-20 cm in length [1], while during late growth stages, the plant should measure around 40-60 cm of height [1].",
+                "early": {
+                    "min": "10",
+                    "max": "20"
+                },
+                "late": {
+                    "min": "40",
+                    "max": "60"
+                },
+                "unit": "cm",
+                "effect": "Ensures optimal plant length conditions for lentil growth."
+            }, {
+                "name": "Plant length growth speed",
+                "description": "Lentils grow fastest around 0.2 and 0.5 cm per day during early growth phases [6], while during late stages, they should grow around 0.15 and 0.3 cm per day [6].",
+                "early": {
+                    "min": "0.2",
+                    "max": "0.5"
+                },
+                "late": {
+                    "min": "0.15",
+                    "max": "0.3"
+                },
+                "unit": "cm/month",
+                "effect": "Ensures optimal plant growth rate for lentil growth."
+            }
+        ],
+        "conclusion": "In conclusion, the ideal conditions for planting lentils involve maintaining an ideal temperature range of 16-26.6°C (60.8-79.9°F), a humidity range of 50-60%, light intensity of 500-900 W/m2, light to moderate air movements of approximately 2-3 m/s, soil moisture of 12.5-33.3%, plant length in the range of 10-60 cm, and a plant growth rate of approximately 0.15-0.5 cm per day. Maintaining these conditions will guarantee optimal lentil growth and good crop yield.",
+        "metadata": "Date: [Insert the date here]"
+    }
+}

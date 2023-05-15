@@ -1,0 +1,24 @@
+----------------------------------------------------------------
+- an introduction of the team/ school
+- a dramatic introduction of the problematic
+- an introduction of the project, and the heroic solution
+- present how hard it is to make the solution ( what technologies are in the project)
+- present the commercialisation of the project
+- how much our project is needed in the market ( maybe fill in with a confermation from a farmer )
+- how cheap and easy it is to manufacture, install our project
+- where are we gonna make money ( installation, monitoring, maintenance, diagnosis, .... )
+- ....
+- practical presentation:
+- the dashboard working ( graphs of data, and stuff .. )
+- last watering time recognition ( goes last maybe?)
+- wind graph working 
+- show how easy it is to do a monitoring session:
+- start - take pics - connect sensors - end
+- show rapport
+- a todo list of task ( response of chatgpt)
+- something easy like water more
+- do it and check the task out in the website
+- im gonna go on a descriptive rampage
+( explain how much effort went into the project, and how much it can help the farmers)
+----------------------------------------------------------------------------
+( the watering detection should go last after it is suggested, and it shoulg make noise as beep or sm)

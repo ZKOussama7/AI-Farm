@@ -1,0 +1,67 @@
+- Introduction:
+	This report describes the ideal growing conditions for the Bettrave plant during its early and late growth phases. The information is critical to ensure the plant grows in the best conditions possible, which is necessary for the success of the farm.
+
+- Start for vector|factor|measurement in REQUIRED DATA:
+	- Factor: Ideal Temperature Range in Celsius at Early Growth Phases
+		- Explanation: The ideal temperature range for Bettrave plants during the early growth phase is between 10°C to 20°C [[1](https://www.garden.eco/ideal-temperature-for-growing-beets)].
+			Any temperature below or above this range can negatively impact the plant's growth rate, and can lead to poor quality of produce. 
+			However, the Bettrave plant is a hardy vegetable and can tolerate some temperature variation.
+
+	- Factor: Ideal Temperature Range in Celsius at Late Growth Phases
+		- Explanation: The ideal temperature range for Bettrave plants during the late growth phase is between 15°C to 22°C [[1](https://www.garden.eco/ideal-temperature-for-growing-beets)].
+			Any temperature below or above this range can slow down the growth rate of the plant, and affect the quality of the produce.
+
+	- Factor: Ideal Humidity Range in % at Early Growth Phases
+		- Explanation: The ideal humidity range for Bettrave plants during early growth phases is around 70% [[2](https://agribackyard.com/grow-sugar-beets/)].
+			Lower or higher humidity levels can have a significant effect on seed germination rates and plant growth. 
+
+	- Factor: Ideal Humidity Range in % at Late Growth Phases
+		- Explanation: The ideal humidity range for Bettrave plants during late growth phases ranges between 50% to 60% [[2](https://agribackyard.com/grow-sugar-beets/)].
+			High humidity levels expose the plant to diseases, while low humidity levels will cause wilting and have an adverse effect on produce quality.
+
+	- Factor: Ideal Light Range in W/m2 at Early Growth Phases
+		- Explanation: The ideal light range for Bettrave plants during early growth phases should be between 10,000 and 15,000 lux [[1](https://www.garden.eco/ideal-temperature-for-growing-beets)].
+			Good illumination facilitates photosynthesis, leading to healthy growth, while insufficient exposure to light results in thin stalks and small beets.
+
+	- Factor: Ideal Light Range in W/m2 at Late Growth Phases
+		- Explanation: The ideal light range for Bettrave plants during late growth phases should be between 15,000 to 20,000 lux [[1](https://www.garden.eco/ideal-temperature-for-growing-beets)].
+			Good illumination promotes photosynthesis, leading to healthy growth, while insufficient exposure to light results in small-sized and underdeveloped beets.
+
+	- Factor: Ideal Wind Speed Range in m/s at Early Growth Phases
+		- Explanation: The ideal wind speed range for Bettrave plants during early growth phases should be between 1 to 2 m/s [[3](https://www.researchgate.net/publication/309066378_Growth_and_quality_of_beetroot_in_response_to_nitrogen_and_foliar_application_of_selenium)].
+			Air movement is essential for the removal of excess moisture and the transport of photosynthetic products. Higher wind speeds can lead to dehydration of the plant.
+
+	- Factor: Ideal Wind Speed Range in m/s at Late Growth Phases
+		- Explanation: The ideal wind speed range for Bettrave plants during late growth phase should be around 0.5 to 1.5 m/s [[3](https://www.researchgate.net/publication/309066378_Growth_and_quality_of_beetroot_in_response_to_nitrogen_and_foliar_application_of_selenium)].
+			Strong wind currents can deform and break the stem of the beetroots, causing a significant reduction in yield.
+
+	- Factor: Ideal Soil Moisture Range in % (where 0% is no water, and 100% is submerged in water) at Early Growth Phases
+		- Explanation: The ideal soil moisture range for Bettrave plants during early growth phases should be between 60% to 70% of the field capacity [[4](https://en.engormix.com/cattle-industry/articles/growing-beetroots-nutritional-requirements-t39804.htm)].
+			Excess soil moisture can lead to waterlogging and limit the plant's oxygen supply, which reduces root development and can delay plant growth
+
+	- Factor: Ideal Soil Moisture Range in % (where 0% is no water, and 100% is submerged in water) at Late Growth Phases
+		- Explanation: The ideal soil moisture range for Bettrave plants during late growth phases ranges between 50% and 60% field capacity [[4](https://en.engormix.com/cattle-industry/articles/growing-beetroots-nutritional-requirements-t39804.htm)].
+			Lowering the soil moisture too much in this phase can make the stems tough and the roots woody or elongated.
+
+	- Factor: Ideal Plant Length Range in cm at Early Growth Phases
+		- Explanation: The ideal plant length range of Bettrave plants during early growth phases ranges between 6-8cm [[5](https://hort.purdue.edu/newcrop/afcm/beet.html)].
+			At this stage, the primary focus of the plant is root establishment and the initiation of stem development.
+
+	- Factor: Ideal Plant Length Range in cm at Late Growth Phases
+		- Explanation: The ideal plant length range of Bettrave plants during late growth phases ranges between 20-25cm [[5](https://hort.purdue.edu/newcrop/afcm/beet.html)].
+			At this stage, the plant has achieved full foliage development, and nutrients have started flowing to the roots for Storage and beet bulking.
+
+	- Factor: Ideal Plant Length Growing Speed Range in cm/month at Early Growth Phases
+		- Explanation: The ideal plant length growing speed for Bettrave plants during early growth phases is around 9 cm/month [[6](https://www.krishijagran.com/agripedia/sugar-beet-farming-complete-information-on-cultivation-conditions-and-production-of-sugar-beet/)].
+			Slower growth rate at this stage indicates poor soil quality or poor environmental conditions, while fast growth rates may accumulate to poor quality produce.
+
+	- Factor: Ideal Plant Length Growing Speed Range in cm/month at Late Growth Phases
+		- Explanation: The ideal plant length growing speed range for Bettrave plants during late growth phases is around 12 to 15 cm/month [[6](https://www.krishijagran.com/agripedia/sugar-beet-farming-complete-information-on-cultivation-conditions-and-production-of-sugar-beet/)].
+			Slower growth rates at this stage indicate nutrient deficiency or soil moisture deficiency, while faster growth rates may lead to the production of small beet size rather than quality produce.
+
+- Start Conclusion:
+	- A global summary of the state of the factors as a whole indicates that the optimal temperature for Bettrave plant growth ranges between 10°C to 22°C with humidity levels ranging between 50% to 70%. The ideal soil moisture level is between 60% to 70% during the early growth stage and between 50% to 60% during the late growth stages. The ideal length of the Bettrave plant is around 6 to 8cm during early growth stages and around 20 to 25cm during late growth stages. The ideal range of wind speed is around 1 to 2 m/s during early growth stages and 0.5 to -1.5 m/s during late phases. 
+
+	- The current measurements indicate that the Bettrave plant is growing under optimal conditions for temperature, humidity, light, soil moisture, length, and growing speed. These results are highly conducive to a good produce quality and general good for the farm and the growth of the plant.
+
+- Information like time and date or anything similar: Report generated on 29/04/23

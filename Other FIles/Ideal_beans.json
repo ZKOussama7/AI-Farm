@@ -1,0 +1,101 @@
+{
+    "Template": {
+        "title": "Beans Ideal Growing Conditions Report",
+        "introduction": "This report aims to provide an overview of the ideal growing conditions for beans, specifically the ideal temperature range, ideal humidity range, ideal light range, ideal wind speed range, ideal soil moisture range, ideal plant length range and ideal plant length growing speed range. This information is crucial for the good of the farm and the good of the plants, as proper growing conditions can lead to higher yields and healthier plants.",
+        "factors": [{
+                "name": "Temperature",
+                "description": "Beans require a relatively warm temperature for optimal growth. During the early growth stages, ideal temperatures range from 20 to 25 degrees Celsius [1] while during the late growth stage, ideal temperatures range from 18 to 22 degrees Celsius [2]. Temperature fluctuations outside of this optimal range can affect plant growth and yield.",
+                "early": {
+                    "min": "20",
+                    "max": "25"
+                },
+                "late": {
+                    "min": "18",
+                    "max": "22"
+                },
+                "unit": "degrees Celsius",
+                "effect": "Temperature fluctuations outside of this optimal range can affect plant growth and yield."
+            }, {
+                "name": "Humidity",
+                "description": "During the early growth stages, the ideal humidity range for beans is between 60 to 70% [3]. During the later growth stages, the humidity range should be reduced to 50 to 60% as high humidity can cause diseases such as fungal growth on the plants [4]. Maintaining the ideal humidity range is crucial for healthy plant growth and disease prevention.",
+                "early": {
+                    "min": "60",
+                    "max": "70"
+                },
+                "late": {
+                    "min": "50",
+                    "max": "60"
+                },
+                "unit": "%",
+                "effect": "Maintaining the ideal humidity range is crucial for healthy plant growth and disease prevention."
+            }, {
+                "name": "Light",
+                "description": "Beans require plenty of light for optimal growth. During the early growth stages, the ideal light range is between 12,000 and 14,000 W/m2, while during the late growth stage, the ideal range is between 9,000 and 12,000 W/m2 [5]. Insufficient light can stunt plant growth and lead to lower yields.",
+                "early": {
+                    "min": "12000",
+                    "max": "14000"
+                },
+                "late": {
+                    "min": "9000",
+                    "max": "12000"
+                },
+                "unit": "W/m2",
+                "effect": "Insufficient light can stunt plant growth and lead to lower yields."
+            }, {
+                "name": "Wind speed",
+                "description": "While beans require some airflow, extremely strong winds can be detrimental to their growth. During the early growth stages, the ideal wind speed range is between 0.5 to 1.5 m/s, while during the late growth stages, the ideal range is between 0.5 to 1.0 m/s [6]. Too much wind can damage the plants and impede growth.",
+                "early": {
+                    "min": "0.5",
+                    "max": "1.5"
+                },
+                "late": {
+                    "min": "0.5",
+                    "max": "1.0"
+                },
+                "unit": "m/s",
+                "effect": "Too much wind can damage the plants and impede growth."
+            }, {
+                "name": "Soil moisture",
+                "description": "During the early growth stages, the ideal soil moisture range for beans is between 75% and 80% of soil field capacity, while during the late growth stages, it should be between 60% and 70% of soil field capacity [7]. However, it's important to note that soil moisture can vary depending on the soil type and drainage. Beans can't tolerate waterlogged soil as it can lead to rot and other diseases.",
+                "early": {
+                    "min": "75",
+                    "max": "80"
+                },
+                "late": {
+                    "min": "60",
+                    "max": "70"
+                },
+                "unit": "% of soil field capacity",
+                "effect": "Beans can't tolerate waterlogged soil as it can lead to rot and other diseases."
+            }, {
+                "name": "Plant length",
+                "description": "During the early growth stages, beans can grow up to 50-60 cm in height [8]. During the late growth stages, however, bean growth slows down, and plants will typically reach a max height of 70-90cm.",
+                "early": {
+                    "min": "50",
+                    "max": "60"
+                },
+                "late": {
+                    "min": "70",
+                    "max": "90"
+                },
+                "unit": "cm",
+                "effect": "Bean growth slows down during the late growth stages."
+            }, {
+                "name": "Plant length growth speed",
+                "description": "During the early growth stages, bean plants have a growth rate of around 1-2 cm per day [9]. During the late growth stage, the growth rate slows down, and plants will typically grow around 0.5-1.5 cm per day.",
+                "early": {
+                    "min": "1",
+                    "max": "2"
+                },
+                "late": {
+                    "min": "0.5",
+                    "max": "1.5"
+                },
+                "unit": "cm per day",
+                "effect": "Growth rate slows down during the late growth stage."
+            }
+        ],
+        "conclusion": "In conclusion, beans require specific environmental conditions to thrive. Optimal soil moisture, temperature, humidity, light, wind speed, plant length, and growth rate all play a vital role in the health of the plants and the success of the farm. It's crucial to monitor these variables and make adjustments as necessary to ensure optimal growing conditions for the beans.",
+        "metadata": "[insert date here]"
+    }
+}

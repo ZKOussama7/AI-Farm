@@ -1,0 +1,50 @@
+START REPORT: - Title: Ideal environmental conditions for early and late growth phases of corn plants - Introduction: Corn is one of the most important crops worldwide, and achieving optimal growth conditions is crucial for both the health of the plants and the success of the farm. This report aims to provide an overview of the ideal conditions for temperature, humidity, light, wind speed, soil moisture, plant length, and growth speed to ensure that corn plants thrive during their early and late growth phases.
+
+- Environmental factors:
+	- Temperature:
+		- Description: Corn plants require specific temperature ranges during both their early and late growth phases to achieve optimal growth.
+		- Early growth phase: The ideal temperature range for corn plants during the early growth phase is between 18 and 24 °C [[1](https://cropwatch.unl.edu/2017/effect-temperature-and-photoperiod-corn-development)].
+		- Late growth phase: The ideal temperature range for corn plants during the late growth phase is between 20 and 32 °C [[2](https://cropwatch.unl.edu/2017/effect-temperature-and-photoperiod-corn-development)].
+		- Effect of change: Temperature affects the rate of photosynthesis, enzymatic reactions, and water uptake. Excessive heat can cause heat stress that can impact corn yields, and colder temperatures can delay corn growth [[3](http://www.fao.org/3/AC141E/AC141E05.htm)].
+
+	- Humidity:
+		- Description: Humidity is an important factor in corn growth as it impacts the plant's ability to transpire and take up water and nutrients through their roots.
+		- Early growth phase: The ideal humidity range for corn plants during the early growth phase is between 70 and 90% [[4](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=2568&context=extensionhist)].
+		- Late growth phase: The ideal humidity range for corn plants during the late growth phase is between 50 and 70% [[4](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=2568&context=extensionhist)].
+		- Effect of change: High humidity can restrict the plant's ability to transpire and lead to fungal growth, while low humidity can cause water stress and reduce corn yields.
+
+	- Light:
+		- Description: Corn plants require specific light ranges during both their early and late growth phases to achieve optimal growth.
+		- Early growth phase: The ideal light range for corn plants during the early growth phase is between 200 and 400 µmol/m2/s [[5](https://www.mdpi.com/2073-4395/9/11/681)].
+		- Late growth phase: The ideal light range for corn plants during the late growth phase is between 400 and 600 µmol/m2/s [[5](https://www.mdpi.com/2073-4395/9/11/681)].
+		- Effect of change: Light impacts photosynthesis, plant morphology, and nutrient uptake. Insufficient light can reduce corn yields and elongate plant stem.
+
+	- Wind speed:
+		- Description: Wind can impact water uptake and plant growth.
+		- Early growth phase: The ideal wind speed range for corn plants during the early growth phase is between 2 and 5 m/s [[6](https://www.sciencedirect.com/science/article/pii/S0308521X19301599#bib0315)].
+		- Late growth phase: The ideal wind speed range for corn plants during the late growth phase is between 1 and 3 m/s [[6](https://www.sciencedirect.com/science/article/pii/S0308521X19301599#bib0315)].
+		- Effect of change: Strong winds can cause stem bending and lodging, while low wind speeds can lead to waterlogging and soil compaction.
+
+	- Soil moisture:
+		- Description: Soil moisture is crucial for corn plant growth and nutrient uptake.
+		- Early growth phase: The ideal soil moisture range for corn plants during the early growth phase is between 35 and 55% [[7](https://cropwatch.unl.edu/corn-soil-moisture-management)].
+		- Late growth phase: The ideal soil moisture range for corn plants during the late growth phase is between 50 and 80% [[7](https://cropwatch.unl.edu/corn-soil-moisture-management)].
+		- Effect of change: Insufficient soil moisture can cause water stress, nutrient deficiency, and reduced corn yields, while excessive soil moisture can lead to root rot, waterlogging, and reduced oxygen in the soil.
+
+	- Plant length:
+		- Description: Plant length is an essential factor affecting corn yields.
+		- Early growth phase: The ideal plant length range for corn plants during the early growth phase is between 2 and 4 cm [[1](https://cropwatch.unl.edu/2017/effect-temperature-and-photoperiod-corn-development)].
+		- Late growth phase: The ideal plant length range for corn plants during the late growth phase is between 170 and 200 cm [[1](https://cropwatch.unl.edu/2017/effect-temperature-and-photoperiod-corn-development)].
+		- Effect of change: Plant length contributes to biomass, grain yield, and stress tolerance. Longer plant heights have been associated with higher corn yields.
+
+	- Plant length growth speed:
+		- Description: Plant length growth speed impacts corn yields.
+		- Early growth phase: The ideal plant length growth speed range for corn plants during the early growth phase is between 1.5 and 2.5 cm/month [[1](https://cropwatch.unl.edu/2017/effect-temperature-and-photoperiod-corn-development)].
+		- Late growth phase: The ideal plant length growth speed range for corn plants during the late growth phase is between 11 and 14 cm/month [[1](https://cropwatch.unl.edu/2017/effect-temperature-and-photoperiod-corn-development)].
+		- Effect of change: High plant growth rate leads to a shorter vegetative period and earlier tasseling and silking than slower-growing varieties. Slower-growing corn has a longer vegetative period and a later maturity date.
+
+- Conclusion: 
+	In summary, corn plants require specific environmental conditions to achieve optimal growth during both their early and late growth phases. The ideal ranges for temperature, humidity, light, wind speed, soil moisture, plant length, and growth rate have been described above. Adhering to these ranges can ensure healthy corn plants and increase farm productivity.
+- Information: This report was generated by GPT-4 on the 29th of April, 2023.
+
+END REPORT

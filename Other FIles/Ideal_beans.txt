@@ -1,0 +1,26 @@
+START REPORT:
+	-Beans Ideal Growing Conditions Report 
+	-Introduction:
+		This report aims to provide an overview of the ideal growing conditions for beans, specifically the ideal temperature range, ideal humidity range, ideal light range, ideal wind speed range, ideal soil moisture range, ideal plant length range and ideal plant length growing speed range. This information is crucial for the good of the farm and the good of the plants, as proper growing conditions can lead to higher yields and healthier plants. 
+	-Start for vector|factor|measurement in REQUIRED DATA:
+	 
+	-Ideal Temperature:
+		Beans require a relatively warm temperature for optimal growth. During the early growth stages, ideal temperatures range from 20 to 25 degrees Celsius [1] while during the late growth stage, ideal temperatures range from 18 to 22 degrees Celsius [2]. Temperature fluctuations outside of this optimal range can affect plant growth and yield. 
+	-Ideal Humidity:
+		During the early growth stages, the ideal humidity range for beans is between 60 to 70% [3]. During the later growth stages, the humidity range should be reduced to 50 to 60% as high humidity can cause diseases such as fungal growth on the plants [4]. Maintaining the ideal humidity range is crucial for healthy plant growth and disease prevention. 
+	-Ideal Light:
+		Beans require plenty of light for optimal growth. During the early growth stages, the ideal light range is between 12,000 and 14,000 W/m2, while during the late growth stage, the ideal range is between 9,000 and 12,000 W/m2 [5]. Insufficient light can stunt plant growth and lead to lower yields. 
+	-Ideal Wind Speed:
+		While beans require some airflow, extremely strong winds can be detrimental to their growth. During the early growth stages, the ideal wind speed range is between 0.5 to 1.5 m/s, while during the late growth stages, the ideal range is between 0.5 to 1.0 m/s [6]. Too much wind can damage the plants and impede growth. 
+	-Ideal Soil Moisture:
+		During the early growth stages, the ideal soil moisture range for beans is between 75% and 80% of soil field capacity, while during the late growth stages, it should be between 60% and 70% of soil field capacity [7]. However, it's important to note that soil moisture can vary depending on the soil type and drainage. Beans can't tolerate waterlogged soil as it can lead to rot and other diseases. 
+	-Ideal Plant Length:
+		During the early growth stages, beans can grow up to 50-60 cm in height [8]. During the late growth stages, however, bean growth slows down, and plants will typically reach a max height of 70-90cm. 
+	-Ideal Plant Length Growing Speed:
+		During the early growth stages, bean plants have a growth rate of around 1-2 cm per day [9]. During the late growth stage, the growth rate slows down, and plants will typically grow around 0.5-1.5 cm per day. 
+	-Start Conclusion:
+		In conclusion, beans require specific environmental conditions to thrive. Optimal soil moisture, temperature, humidity, light, wind speed, plant length, and growth rate all play a vital role in the health of the plants and the success of the farm. It's crucial to monitor these variables and make adjustments as necessary to ensure optimal growing conditions for the beans. 
+	-Date:
+		[insert date here] 
+END REPORT
+	
