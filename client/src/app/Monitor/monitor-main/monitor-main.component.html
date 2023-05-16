@@ -1,0 +1,27 @@
+<div *ngIf="count>=0" class="dbody">
+  <div *ngIf="error" [ngStyle]="{ 'font-size': '24pt', color: 'darkred' }">
+    Please Give WebCam Permission to The Web App And Refresh
+  </div>
+  <webcam class="cam"
+    *ngIf="!error"
+    (initError)="seterror($event)"
+    [height]="webheight"
+    [width]="webwidth"
+    [trigger]="trig.asObservable()"
+    [imageQuality]="1"
+    [videoOptions]="videoOptions"
+    (imageCapture)="capture_img($event)" 
+    ></webcam>
+    <!-- [trigger]="triggerObservable" 
+        *ngIf="showWebcam"
+    [allowCameraSwitch]="allowCameraSwitch" [switchCamera]="nextWebcamObservable"
+    (cameraSwitched)="cameraWasSwitched($event)"> -->
+
+    <div tabindex="4" (click)="trig_img()" (keydown)="key_click($event,trig_img)" class="btn"> 📷 Picture : {{count}} </div>
+    <div tabindex="5" (click)="finish_end()" (keydown)="key_click($event,finish_end)" class="btn"> 💾 Finish & Save </div>
+    <!-- <img *ngIf="!!cr_img" [src]="cr_img.imageAsDataUrl"> -->
+</div>
+<div *ngIf="count<0">
+    <div tabindex="99" (click)="start_mon()" (keydown)="key_click($event,start_mon)" class="btn"> Start Monitoring Session </div>
+    {{dss??""}}
+</div>

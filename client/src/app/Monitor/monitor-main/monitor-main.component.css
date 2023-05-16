@@ -1,0 +1,47 @@
+.dbody {
+  position: absolute;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  top: 80px;
+  width: 100vw;
+  height: calc(100vh - 80px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.cam {
+  display: block;
+  width: fit-content;
+  border: 2px solid darkgreen;
+  margin: 10px 0px;
+}
+
+.btn {
+  display: block;
+  text-decoration: none;
+  margin: 0;
+  padding: 15px 30px;
+  width: fit-content;
+  text-align: center;
+  align-content: center;
+  font-size: 16pt;
+  font-weight: 800;
+  border: 1px white solid;
+  border-radius: 10px;
+  outline: none;
+  user-select: none;
+}
+.btn:focus {
+  outline: 1.5px solid rgb(255, 221, 0);
+}
+.btn:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.btn:hover:active,
+.btn:active {
+  background-color: rgb(154, 227, 154);
+  color: rgb(0, 71, 0);
+}

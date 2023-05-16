@@ -1,0 +1,45 @@
+<br>
+<br>
+<br><br>
+<br><br>
+<br><br>
+<div>
+    <div *ngIf="rapport&&show" [ngStyle]="{width:'700px'}">
+        <h3>Report</h3><br>
+        <h4>Temperature:</h4> Average :21.29 C, Ideal : (18 C,32 C) <br>
+"This temperature value of the plant is in the optimal range which is, so it can facilitate robust plant growth, enhance photosynthesis efficiency, and lead to increased crop yields."
+
+<h4>Humidity:</h4>  Average :75.53%, Ideal : ( 76%, 85%)<br>
+"The humidity is very low. It is outside the optimal range, so the plant growth is often compromised as crops take much longer to obtain the saleable size. Also, lower leaves often drop off, growth is hard, and overall quality is not very good."
+<h4>Soil Moisture:</h4> : Average :71.98%, Ideal : ( 75%,80% ),<br>
+"The average soil moisture is very low. The plants can experience wilting as a result of water loss through transpiration. This can cause leaves to droop and reduce the plant's ability to photosynthesize."
+<h4>Wind Speed:</h4> : Average :19.55km/h, Ideal : ( 15km/h,25km/h)<br>
+"The average wind speed is within the ideal range. Which can help plants maintain healthy foliage, efficient gas exchange, and optimal transpiration rates. Ideal wind speeds can vary widely depending on the plant species and growing conditions."
+<h4>Lightening condition:</h4> : Average :27.05, Ideal : ( 25%,50%)<br>
+"This average lightning condition is in the range required by the plant, and can promote healthy plant growth, efficient photosynthesis, and optimal yields. Plants typically require a certain amount of light per day to thrive, and the ideal lighting conditions can vary depending on the plant species. "
+    </div>
+    <div *ngIf="!rapport&&show" [ngStyle]="{width:'900px'}">
+        <h1>Suggestions :</h1> 
+-	Avoid over-fertilization, which can lead to salt buildup and affect water uptake<br>
+-	Increase watering frequency<br>
+-	Use a humidifier<br>
+-	Plant cover crops or other vegetation to increase humidity in the surrounding area <br>
+{{lstsugs()}}
+    </div><br><br>
+    <button *ngIf="!rapport" class="btn" (click)="showrapport()">Reports</button>
+    <button *ngIf="rapport&&show" class="btn" (click)="showsugs()">Suggestions</button>
+</div>
+
+<!-- 
+ 
+[
+  { _id: 'Temp', avgValue: 21.294415419480885 },
+  { _id: 'Light', avgValue: 27.05058254349535 },
+  { _id: 'Hum', avgValue: 75.53773042929664 },
+  { _id: 'Wind', avgValue: 19.556181346713927 },
+  { _id: 'Soil3', avgValue: 68.07511844871198 },
+  { _id: 'Soil2', avgValue: 71.98238144309742 },
+  { _id: 'Soil4', avgValue: 19.596234035465933 },
+  { _id: 'Soil1', avgValue: 55.180607091588996 }
+]
+ -->

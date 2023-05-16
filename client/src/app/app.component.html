@@ -1,0 +1,12 @@
+<header>
+<div class="Logo">
+  <img class="logo-img" src="assets/AI-Farm.svg" alt="Picture Of AI-Farm Logo">
+  <span class="logo-text">AI-Farm</span>
+</div>
+<div class="links">
+  <a tabindex="1" class="btn {{is_route('/')?'selected':''}}" href="/" (click)="cold_redirect('/',$event)" (keydown)="key_click($event,cold_redirect,['/',$event])">Dashboard</a>
+  <a tabindex="2" class="btn {{is_route('/monitor')?'selected':''}}" href="monitor" (click)="cold_redirect('/monitor',$event)" (keydown)="key_click($event,cold_redirect,['/monitor',$event])">Monitor</a>
+  <a tabindex="3" class="btn {{is_route('/divide')?'selected':''}}" href="divide" (click)="cold_redirect('/divide',$event)" (keydown)="key_click($event,cold_redirect,['/divide',$event])">Reports</a>
+</div>
+</header>
+<router-outlet/>
