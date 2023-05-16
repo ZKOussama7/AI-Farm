@@ -1,0 +1,11 @@
+// THis File Is Not Considered By The Compiler if Arduino.cpp is Present
+
+// the setup function runs once when you press reset or power the board
+void setup() {
+
+}
+
+// the loop function runs over and over again until power down or reset
+void loop() {
+  
+}
