@@ -7,3 +7,4 @@
 - Add Comments And Documentation To All Code in THe project.
 - Complete rapport & suggestions
 - multiple plots in the Soil moiisture graph
+- add The Schematics of how all the electronics are connected.
