@@ -1,0 +1,12 @@
+{
+    "DB": {
+        "usr": "Mongo_Db_Username",
+        "pwd": "Mongo_Db_Password",
+        "hostname": "Mongo_Db_url",
+        "port": "Mongo_db_port"
+    },
+    "Ser": {
+        "hostname": "Server_URL",
+        "port": "Server_port"
+    }
+}
