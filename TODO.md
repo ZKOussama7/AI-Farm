@@ -8,3 +8,4 @@
 - Complete rapport & suggestions
 - multiple plots in the Soil moiisture graph
 - add The Schematics of how all the electronics are connected.
+- add wireless connection between the arduino(s) and the esp32-cam with the sd_card.
